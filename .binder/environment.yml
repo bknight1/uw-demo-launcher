@@ -46,3 +46,4 @@ dependencies:
     - trame-vtk
     - trame-vuetify    #- badlands comment out for the following for now
     - "badlands @ git+https://github.com/julesghub/badlands.git@julesghub/meson-build#subdirectory=badlands"
+    - nbgitpuller ### for seperating build and content on binder, https://nbgitpuller.readthedocs.io/en/latest/link.html
